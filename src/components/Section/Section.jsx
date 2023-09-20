@@ -4,7 +4,7 @@ import PropTypes from "prop-types"
 const Section = ({title,children}) => {
 return (
 <Container>
-    <Text>
+     <Text>
     {title}
     </Text>
     {children}
